@@ -1,0 +1,3 @@
+# Lucca
+
+## Usando git
